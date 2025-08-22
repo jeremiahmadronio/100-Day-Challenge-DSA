@@ -1,0 +1,14 @@
+3. First Unique Character
+
+Problem: Find the index of the first non-repeating character in a string. If none exists, return -1.
+
+Example:
+
+Input: "leetcode"
+Output: 0  (character 'l')
+
+
+Input: "loveleetcode"
+Output: 2  (character 'v')
+
+Explanation: Use a frequency map to count characters, then scan again to find the first with count 1.
