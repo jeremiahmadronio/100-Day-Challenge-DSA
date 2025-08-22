@@ -1,0 +1,13 @@
+## 5. Happy Number
+**Problem:**  
+A number is "happy" if repeatedly replacing it with the sum of squares of digits eventually leads to `1`. Use a **HashSet** to detect loops.  
+
+**Instructions:**  
+- Keep calculating sum of squares of digits.  
+- If you reach `1`, return true.  
+- If a number repeats (cycle detected), return false.  
+
+**Examples:**  
+- Input: `19` → Output: `true`  
+- Input: `2` → Output: `false`  
+- Input: `7` → Output: `true`  
