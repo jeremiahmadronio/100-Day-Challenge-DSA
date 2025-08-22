@@ -1,0 +1,15 @@
+
+## 8. Two Sum
+**Description:**  
+Given an array of integers and a target value, return the indices of the two numbers such that they add up to the target.
+
+**Input Format:**  
+- An integer array.  
+- An integer target value.
+
+**Output Format:**  
+- An array containing two indices.
+
+**Example:**  
+Input: nums = [2, 7, 11, 15], target = 9  
+Output: [0, 1]  
