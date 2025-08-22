@@ -1,0 +1,14 @@
+
+## 6. Remove Duplicates (Sorted Array)
+**Description:**  
+Given a sorted array of integers, remove duplicates in-place and return the array containing only unique elements.
+
+**Input Format:**  
+- A sorted integer array.
+
+**Output Format:**  
+- The array without duplicates.
+
+**Example:**  
+Input: [1, 1, 2, 2, 3]  
+Output: [1, 2, 3]  
