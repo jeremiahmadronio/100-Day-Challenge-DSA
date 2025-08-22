@@ -1,0 +1,15 @@
+
+## 6. Isomorphic Strings
+**Problem:**  
+Two strings are isomorphic if characters in one can be replaced consistently to form the other.  
+
+**Instructions:**  
+- Use **two HashMaps**:  
+  - One to map characters from string `s` → `t`.  
+  - Another to map characters from string `t` → `s`.  
+- Ensure mapping is consistent both ways.  
+
+**Examples:**  
+- Input: `s = "egg", t = "add"` → Output: `true`  
+- Input: `s = "foo", t = "bar"` → Output: `false`  
+- Input: `s = "paper", t = "title"` → Output: `true`  
