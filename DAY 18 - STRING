@@ -1,0 +1,14 @@
+8. Longest Palindromic Substring
+
+Problem: Find the longest palindromic substring in a given string.
+
+Example:
+
+Input: "babad"
+Output: "bab" (or "aba")
+
+
+Input: "cbbd"
+Output: "bb"
+
+Explanation: Expand around center for every index to find maximum palindrome.
