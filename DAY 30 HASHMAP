@@ -1,0 +1,15 @@
+## 10. Minimum Window Substring (Hard)
+**Problem:**  
+Find the smallest substring in `s` that contains all characters of `t`.  
+
+**Instructions:**  
+- Use **two HashMaps**: one for `t` frequency, one for current window.  
+- Use **sliding window** to expand and contract.  
+- Track minimum length substring that satisfies condition.  
+
+**Examples:**  
+- Input: `s = "ADOBECODEBANC", t = "ABC"` → Output: `"BANC"`  
+- Input: `s = "a", t = "a"` → Output: `"a"`  
+- Input: `s = "a", t = "aa"` → Output: `""` (not possible)  
+
+---
