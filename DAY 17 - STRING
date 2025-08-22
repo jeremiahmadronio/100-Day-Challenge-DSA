@@ -1,0 +1,18 @@
+7. Valid Parentheses
+
+Problem: Check if a string containing only '(', ')', '{', '}', '[' and ']' is valid.
+
+Example:
+
+Input: "()"
+Output: true
+
+
+Input: "()[]{}"
+Output: true
+
+
+Input: "(]"
+Output: false
+
+Explanation: Use a stack. Push opening brackets and pop when you see the correct closing bracket.
