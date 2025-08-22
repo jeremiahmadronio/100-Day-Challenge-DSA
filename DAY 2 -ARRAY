@@ -1,0 +1,13 @@
+## 2. Find Minimum Element
+**Description:**  
+Given an array of integers, find and return the minimum element.
+
+**Input Format:**  
+- An integer array.
+
+**Output Format:**  
+- A single integer representing the minimum element.
+
+**Example:**  
+Input: [3, 1, 7, 2, 5]  
+Output: 1  
