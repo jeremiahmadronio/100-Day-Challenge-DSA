@@ -1,0 +1,14 @@
+5. Implement strStr() (Substring Search)
+
+Problem: Return the index of the first occurrence of needle in haystack. Return -1 if not found.
+
+Example:
+
+Input: haystack = "hello", needle = "ll"
+Output: 2
+
+
+Input: haystack = "aaaaa", needle = "bba"
+Output: -1
+
+Explanation: Check all possible starting positions in haystack until you find a match.
