@@ -1,0 +1,16 @@
+1. Reverse a String
+
+Problem: Given a string, return the string reversed.
+
+Example:
+
+Input: "hello"
+Output: "olleh"
+
+Explanation: We simply reverse the characters of the string.
+
+Hint:
+
+You can use two-pointer approach swapping from both ends.
+
+Or use built-in reverse functions.
