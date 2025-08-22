@@ -1,0 +1,14 @@
+## 4. Rotate Array by K Steps
+**Description:**  
+Given an array of integers, rotate the array to the right by K steps.
+
+**Input Format:**  
+- An integer array.  
+- An integer K (number of steps to rotate).
+
+**Output Format:**  
+- The rotated array.
+
+**Example:**  
+Input: [1, 2, 3, 4, 5, 6, 7], K = 3  
+Output: [5, 6, 7, 1, 2, 3, 4]  
