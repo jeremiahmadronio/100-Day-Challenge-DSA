@@ -1,0 +1,13 @@
+## 1. Find Maximum Element
+**Description:**  
+Given an array of integers, find and return the maximum element.
+
+**Input Format:**  
+- An integer array.
+
+**Output Format:**  
+- A single integer representing the maximum element.
+
+**Example:**  
+Input: [3, 1, 7, 2, 5]  
+Output: 7  
