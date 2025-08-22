@@ -1,0 +1,89 @@
+Part 4: Linked List (10 problems)
+1.	Reverse Linked List
+2.	Detect Cycle
+3.	Merge Two Sorted Lists
+4.	Remove Nth Node From End
+5.	Middle of Linked List
+6.	Palindrome Linked List
+7.	Intersection of Two Linked Lists
+8.	Add Two Numbers
+9.	Copy List with Random Pointer
+10.	LRU Cache
+________________________________________
+Part 5: Stack & Queue (10 problems)
+👉 Balanced brackets, monotonic stack problems.
+1.	Valid Parentheses
+2.	Min Stack
+3.	Implement Queue using Stacks
+4.	Implement Stack using Queues
+5.	Next Greater Element
+6.	Daily Temperatures
+7.	Evaluate Reverse Polish Notation
+8.	Sliding Window Maximum
+9.	Largest Rectangle in Histogram
+10.	Trapping Rain Water
+________________________________________
+Part 6: Recursion & Backtracking (10 problems)
+👉 Basics muna bago combinatorics.
+1.	Factorial
+2.	Fibonacci
+3.	Permutations
+4.	Combinations
+5.	Subsets
+6.	Letter Combinations of Phone Number
+7.	Word Search
+8.	N-Queens
+9.	Sudoku Solver
+10.	Rat in a Maze
+________________________________________
+Part 7: Binary Search (10 problems)
+👉 Sorted array, boundaries, variations.
+1.	Binary Search (basic)
+2.	First Bad Version
+3.	Search Insert Position
+4.	Search in Rotated Sorted Array
+5.	Find Minimum in Rotated Sorted Array
+6.	Find Peak Element
+7.	Median of Two Sorted Arrays
+8.	Kth Smallest Element in a Sorted Matrix
+9.	Search a 2D Matrix
+10.	Aggressive Cows (classic binary search on answer)
+________________________________________
+Part 8: Binary Trees (10 problems)
+1.	Inorder Traversal
+2.	Preorder Traversal
+3.	Postorder Traversal
+4.	Level Order Traversal
+5.	Maximum Depth of Binary Tree
+6.	Symmetric Tree
+7.	Diameter of Binary Tree
+8.	Lowest Common Ancestor
+9.	Serialize and Deserialize Tree
+10.	Binary Tree Maximum Path Sum
+________________________________________
+Part 9: Dynamic Programming (10 problems)
+👉 Start small, then climbing stairs, knapsack, etc.
+1.	Climbing Stairs
+2.	Min Cost Climbing Stairs
+3.	House Robber
+4.	House Robber II
+5.	Coin Change
+6.	Longest Increasing Subsequence
+7.	Unique Paths
+8.	Edit Distance
+9.	Partition Equal Subset Sum
+10.	Longest Palindromic Subsequence
+________________________________________
+Part 10: Graphs (10 problems)
+👉 BFS, DFS, Union Find.
+1.	Number of Islands
+2.	Flood Fill
+3.	Rotten Oranges
+4.	Course Schedule
+5.	Clone Graph
+6.	Pacific Atlantic Water Flow
+7.	Word Ladder
+8.	Minimum Spanning Tree (Prim/Kruskal)
+9.	Dijkstra’s Algorithm
+10.	Bellman Ford / Detect Negative Cycle
+
