@@ -1,0 +1,14 @@
+2. Check Palindrome
+
+Problem: Check if a given string is a palindrome (reads the same forwards and backwards).
+
+Example:
+
+Input: "racecar"
+Output: true
+
+
+Input: "hello"
+Output: false
+
+Explanation: Compare characters from both ends until the middle.
