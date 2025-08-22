@@ -1,0 +1,14 @@
+6. Longest Common Prefix
+
+Problem: Find the longest common prefix among an array of strings.
+
+Example:
+
+Input: ["flower","flow","flight"]
+Output: "fl"
+
+
+Input: ["dog","racecar","car"]
+Output: ""
+
+Explanation: Compare characters vertically across all strings until mismatch.
