@@ -1,0 +1,10 @@
+9. Group Anagrams
+
+Problem: Group strings that are anagrams of each other.
+
+Example:
+
+Input: ["eat","tea","tan","ate","nat","bat"]
+Output: [["eat","tea","ate"],["tan","nat"],["bat"]]
+
+Explanation: Sort each word alphabetically and use it as a key in a hashmap.
